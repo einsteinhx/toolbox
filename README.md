@@ -6,9 +6,7 @@ helpers
 - clone
 - deep clone
 - flow control (parallel, series, waterfall)
-- event emitter
-- publish/subscribe
-
+- event emitter- publish/subscribe
 - JSON format beautify
 - Code format beautify
 
