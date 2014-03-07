@@ -11,8 +11,8 @@ huangxin's toolbox
 - flow control (parallel, series, waterfall)
 - event emitter
 - publish/subscribe
-- task helper
 - state machine
+- queue
 
 #### Tools
 - JSON format beautify
